@@ -31,8 +31,8 @@ by Simon Enzi
 - **Code Standard** – alle Entwickler folgen einem Code Standard, damit es so wirkt als hätte den Code nur ein Entwickler geschrieben
 
 ## Quellen
-[softwaretestingclass.com](https://www.softwaretestingclass.com/what-is-the-difference-between-scrum-kanban-and-xp/)
-[ronjeffries.com](https://ronjeffries.com/xprog/what-is-extreme-programming/)
-[agile-heroes.com](https://www.agile-heroes.com/de/magazine/extreme-programming/)
-[wikipedia.org](https://en.wikipedia.org/wiki/Extreme_programming)
+[softwaretestingclass.com](https://www.softwaretestingclass.com/what-is-the-difference-between-scrum-kanban-and-xp/)\
+[ronjeffries.com](https://ronjeffries.com/xprog/what-is-extreme-programming/)\
+[agile-heroes.com](https://www.agile-heroes.com/de/magazine/extreme-programming/)\
+[wikipedia.org](https://en.wikipedia.org/wiki/Extreme_programming)\
 [asana.com](https://asana.com/de/resources/extreme-programming-xp)
