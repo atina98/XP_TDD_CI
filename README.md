@@ -1,2 +1,3 @@
 # XP_TDD_CI
-repo for presentation and handouts on XP, TDD and CI
+handouts for XP, TDD and CI
+Simon Enzi, Dominik Bliem-Zupansky, Atina Maurer
