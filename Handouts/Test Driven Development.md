@@ -25,7 +25,7 @@ TDD ist ein Entwicklungs- und Designparadigma für Software, bei dem das Testen 
 
 ## Quellen
 [wikipedia.org](https://de.wikipedia.org/w/index.php?title=Testgetriebene_Entwicklung&oldid=235708551)
-[ryte.com](https://de.ryte.com/wiki/Test_Driven_Development#:~:text=Test%20Driven%20Development%20(deutsch%3A%20testgeleitete,Prozess%20der%20Softwareentwicklung%20zu%20leiten)
+[ryte.com](https://de.ryte.com/wiki/Test_Driven_Development)
 [ionos.at](https://www.ionos.at/digitalguide/websites/web-entwicklung/was-ist-test-driven-development/)
 [it-agile.de](https://www.it-agile.de/agiles-wissen/agile-entwicklung/was-ist-testgetriebene-entwicklung/)
 [freecodecamp.org](https://www.freecodecamp.org/news/learning-to-test-with-python-997ace2d8abe/)
