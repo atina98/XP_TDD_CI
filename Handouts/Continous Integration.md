@@ -6,7 +6,7 @@ CI ist eine agile Methode in der Softwareentwicklung, bei der Entwickler:innen r
 
 ## Ziele
 - **Regelmäßige Integration:** Entwickler:innen führen kontinuierlich kleine Codeänderungen in das gemeinsame Repository ein, anstatt größere, isolierte Änderungen vorzunehmen. Dadurch werden Konflikte und Probleme frühzeitig erkannt und behoben.
-- **Automatisierung:** CI-Systeme automatisieren den Build- und Testprozess. Dies bedeutet, dass bei jeder Code-Änderung automatisch eine neue Version der Software erstellt und Tests ausgeführt werden. Dies spart Zeit und Entwickler:innen können sich voll und ganz aufs Programmieren konzentireren.
+- **Automatisierung:** CI-Systeme automatisieren den Build- und Testprozess. Dies bedeutet, dass bei jeder Code-Änderung automatisch eine neue Version der Software erstellt und Tests ausgeführt werden. Dies spart Zeit und Entwickler:innen können sich voll und ganz aufs Programmieren konzentrieren.
 - **Auto-Tests:** Verschiedene Arten von Tests werden automatisiert ausgeführt, wie z. B. Einheitstests, Integrationstests und Akzeptanztests. Dies hilft, Fehler frühzeitig zu erkennen und die Qualität der Software sicherzustellen.
 - **Frühzeitige Fehlererkennung:** Fehler und Probleme im Code sollen, aufgrund von Auto-Tests, frühzeitig identifizierbar sein, bevor sie sich zu schwerwiegenden und kostspieligen Fehlern in der Produktion entwickeln.
 - **Einfachere Zusammenarbeit im Team:** Alle Teammitglieder arbeiten in einem gemeinsamen Repository und integrieren kontinuierlich ihre Codeänderungen. Dies fördert die Zusammenarbeit und sorgt dafür, dass alle auf dem gleichen Stand sind.
@@ -14,7 +14,7 @@ CI ist eine agile Methode in der Softwareentwicklung, bei der Entwickler:innen r
 - **Schnellere Markteinführungen:** Die effiziente Verwaltung von Codeänderungen und die schnelle Fehlerbehebung ermöglichen es, neue Funktionen und Verbesserungen schneller auf den Markt zu bringen.
 
 ## CI in 6 easy steps:
-1. Write and push yout code
+1. Write and push your code
 2. Build automatically
 3. Test automatically
 4. Get your feedback
