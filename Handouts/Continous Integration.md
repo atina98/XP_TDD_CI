@@ -1,4 +1,5 @@
 # Continous Integration (CI)
+by Atina Maurer
 
 ## Was ist CI?
 CI ist eine agile Methode in der Softwareentwicklung, bei der Entwickler:innen regelmäßig ihren Code in ein gemeinsames Repository integrieren. Das Hauptziel von CI besteht darin, sicherzustellen, dass Codeänderungen kontinuierlich und automatisch getestet und in das Hauptprojekt integriert werden, um die Qualität der Software und die Zusammenarbeit im Entwickler:innenteam zu verbessern.
