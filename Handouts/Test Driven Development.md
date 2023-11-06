@@ -25,9 +25,9 @@ TDD ist ein Entwicklungs- und Designparadigma für Software, bei dem das Testen 
 - **Zu viele Tests:** TDD kann dazu führen, dass zu viele Tests geschrieben werden. Ändern sich Anforderungen, müssen viele Tests umgeschrieben werden, was mehr Zeit in Anspruch nimmt und die Kosten wieder erhöht.
 
 ## Quellen
-[wikipedia.org](https://de.wikipedia.org/w/index.php?title=Testgetriebene_Entwicklung&oldid=235708551)
-[ryte.com](https://de.ryte.com/wiki/Test_Driven_Development)
-[ionos.at](https://www.ionos.at/digitalguide/websites/web-entwicklung/was-ist-test-driven-development/)
-[it-agile.de](https://www.it-agile.de/agiles-wissen/agile-entwicklung/was-ist-testgetriebene-entwicklung/)
+[wikipedia.org](https://de.wikipedia.org/w/index.php?title=Testgetriebene_Entwicklung&oldid=235708551)\
+[ryte.com](https://de.ryte.com/wiki/Test_Driven_Development)\
+[ionos.at](https://www.ionos.at/digitalguide/websites/web-entwicklung/was-ist-test-driven-development/)\
+[it-agile.de](https://www.it-agile.de/agiles-wissen/agile-entwicklung/was-ist-testgetriebene-entwicklung/)\
 [freecodecamp.org](https://www.freecodecamp.org/news/learning-to-test-with-python-997ace2d8abe/)
 
