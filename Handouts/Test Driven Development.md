@@ -1,4 +1,5 @@
 # Test Driven Development (TDD)
+by Dominik Bliem-Zupansky
 
 ## Was ist TDD?
 TDD ist ein Entwicklungs- und Designparadigma für Software, bei dem das Testen von Programmkomponenten dazu verwendet wird, den gesamten Prozess der Softwareentwicklung zu leiten. Das Ziel liegt darin, die Qualität der Software maßgeblich zu erhöhen und den Wartungsaufwand zu verringern. Ursprünglich waren Testen und Entwickeln voneinander entkoppelt. Bei dieser Vorgehensweise können im Schnitt 45 Prozent aller Fehler erkannt bzw. vermieden werden.
