@@ -38,10 +38,10 @@ GitHub Actions ermöglicht die Automatisierung von Software-Entwicklungs-Workflo
 - **Feedback und Benachrichtigungen:** Es wird Feedback in Form von Workflow-Status und detaillierten Berichten über den Erfolg oder das Scheitern der automatisierten Aufgaben gesendet. Man wird benachrichtigt, wenn ein Workflow fehlschlägt, was hilft, Probleme zu erkennen und zu beheben.
 
 ## Quellen
-[redhat.com](https://www.redhat.com/topics/devops/what-is-ci-cd)
-[jetbrains.com](https://www.jetbrains.com/teamcity/ci-cd-guide/continuous-integration/)
-[atlassian.com](https://www.atlassian.com/continuous-delivery/continuous-integration)
-[wikipedia.org](https://en.wikipedia.org/w/index.php?title=Continuous_integration&oldid=1169653496)
+[redhat.com](https://www.redhat.com/topics/devops/what-is-ci-cd)\
+[jetbrains.com](https://www.jetbrains.com/teamcity/ci-cd-guide/continuous-integration/)\
+[atlassian.com](https://www.atlassian.com/continuous-delivery/continuous-integration)\
+[wikipedia.org](https://en.wikipedia.org/w/index.php?title=Continuous_integration&oldid=1169653496)\
 [github.com](https://github.com/features/actions)
 
 
