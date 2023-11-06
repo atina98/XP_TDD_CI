@@ -1,4 +1,5 @@
 # Extreme Programming (XP)
+by Simon Enzi
 
 ## Was ist XP?
 - Framework das auf Qualität der Software abzielt
