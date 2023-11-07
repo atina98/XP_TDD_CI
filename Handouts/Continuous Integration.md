@@ -1,4 +1,4 @@
-# Continous Integration (CI)
+# Continuous Integration (CI)
 by Atina Maurer
 
 ## Was ist CI?
